@@ -1,8 +1,8 @@
 # thor-landing-page
 
-Simple landing page (TOP curriculum). I created a silly page about the norse god Thor.
+<h1>Simple landing page (TOP curriculum). I created a silly page about the norse god Thor.</h1>
 
-Technologies used:
+<h2>Technologies used:</h2>
 
  <ol>
     <li style="color:orange">HTML5</li>
