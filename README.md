@@ -5,8 +5,8 @@
 <h3>Technologies used:</h3>
 
  <ol>
-    <li>&#x1F536;HTML5</li>
-    <li>CSS3</li>
+    <li>&#x1F537;HTML5</li>
+    <li>&#x1F536;CSS3</li>
 </ol>
 
 <p>I had to create a webpage from scratch using html and css. First I created the html file, added multiple divs and started styling from top to bottom.
