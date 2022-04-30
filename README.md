@@ -5,7 +5,7 @@
 <h3>Technologies used:</h3>
 
  <ol>
-    <li>HTML5</li>
+    <li>&#x1F536;HTML5</li>
     <li>CSS3</li>
 </ol>
 
