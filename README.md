@@ -1,12 +1,12 @@
 # thor-landing-page
 
-<h1>Simple landing page (TOP curriculum). I created a silly page about the norse god Thor.</h1>
+<h2>Simple landing page (TOP curriculum). I created a silly page about the norse god Thor.</h2>
 
-<h2>Technologies used:</h2>
+<h3>Technologies used:</h3>
 
  <ol>
-    <li style="color:orange">HTML5</li>
-    <li style="color:lightskyblue">CSS3</li>
+    <li style="color:orange">**HTML5**</li>
+    <li style="color:lightskyblue">**CSS3**</li>
 </ol>
 
 <p>I had to create a webpage from scratch using html and css. First I created the html file, added multiple divs and started styling from top to bottom.
